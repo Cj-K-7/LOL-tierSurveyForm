@@ -1,2 +1,2 @@
 # LOL-tierSurveyForm
-use only HTML/CSS
+Survey form by using only HTML/CSS
